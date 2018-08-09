@@ -1,6 +1,6 @@
 ## jsonkv 🌲
 
-Convert lists of KV pairs to JSON and vice versa.
+Convert lists of KV pairs to JSON and vice versa, based on a separator character.
 
 Calling `ToKVs` with a JSON blob like this:
 ```js
