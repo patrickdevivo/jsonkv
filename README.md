@@ -1,3 +1,6 @@
+[![Build Status](http://img.shields.io/travis/patrickdevivo/jsonkv.svg?style=flat-square)](https://travis-ci.org/hashicorp/consul-template)
+[![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/patrickdevivo/jsonkv)
+
 ## jsonkv 🌲
 
 Convert lists of KV pairs to JSON and vice versa, based on a separator character.
