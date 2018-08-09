@@ -1,4 +1,4 @@
-[![Build Status](http://img.shields.io/travis/patrickdevivo/jsonkv.svg?style=flat-square)](https://travis-ci.org/hashicorp/consul-template)
+[![Build Status](http://img.shields.io/travis/patrickdevivo/jsonkv.svg?style=flat-square)](https://travis-ci.org/patrickdevivo/jsonkv)
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/patrickdevivo/jsonkv)
 
 ## jsonkv 🌲
